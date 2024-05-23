@@ -10,6 +10,7 @@ Image analysis to identify text and visual elements.
 Text extraction using OCR capabilities.
 Basic image segmentation for isolating visual elements.
 HTML file generation for organizing extracted content.
+
 Usage:
 
 Clone the repository.
